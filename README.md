@@ -1,5 +1,5 @@
 # Nesan
-## This is repo is created for showing my project works.
+## This repo is created for showing my project works.
 **1. DATATHON 1.0: GUVI GEEKS NETWORK. (16th July 2022 - 17th July 2022)**
 - Problem Statement:
 Based on the historical Term Life Insurance data, we had developed a classification model that will predict whether a customer will buy the Term Insurance premium or not. Also, to provide critical business parameters that impacts the customer's buying decision.
